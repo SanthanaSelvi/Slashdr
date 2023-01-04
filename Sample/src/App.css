@@ -1,0 +1,109 @@
+.App {
+  text-align: left;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.header{
+  margin-left: 20px;
+}
+.patient{
+  border-radius: 10px;
+  background-color:white;
+  margin: 50px;
+  padding: 0px;
+  font-family: 'Lucida Sans';
+}
+.body{
+  float: right;
+  width: 92%;
+  background-color: white;
+  margin: 10px;
+}
+.box{
+  border: solid 2px;
+  border-radius: 5px;
+  border-color:rgb(190, 234, 252);
+  margin:10px;
+  padding: 5px;
+  background-color: white;
+  border-left-width: 5px;
+}
+.dr{
+  font-size: large;
+  float: right;
+}
+.full_body{
+  background-color: white;
+  border-radius: 5px;
+  margin: 10px;
+}
+.up{
+  display: inline-block;
+  padding: 0 15px ;
+  color: black;
+}
+.current {
+  display: inline-block;
+  padding: 0 15px ;
+  color:rgb(75, 177, 218);  
+  padding-bottom: 15px;
+  border-bottom-style: solid;
+  border-bottom-width: 3.1px;
+  width: fit-content;
+}
+.title{
+  color:rgb(75, 177, 218);
+  margin: 50px;
+}
+.timeline {
+  float: left;
+  width:10px;
+  margin-left: 10px;
+}
+.info{
+  font-size: medium;
+  display:inline-block;
+  padding: 3px;
+}
+.value{
+  padding: 3px;
+  margin: 0;
+}
+.topborder{
+  height: 8vmin;
+  padding: 10px;
+  background-color:rgb(3, 3, 36);
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

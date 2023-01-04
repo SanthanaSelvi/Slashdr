@@ -1,0 +1,276 @@
+{
+  "code": 1,
+  "status": true,
+  "result": [
+      {
+        "date": "23 Dec 2022",
+        "doctor": "Dr. Gokul",
+        "appointment_id": 453318,
+        "summary": [
+          {
+            "id": null,
+            "title": "Notes",
+            "content": "Visit Notes: Notes: "
+          },
+          {
+            "title": "Visit Details",
+            "content": "VisitID: 453318 - Time: 10:06PM"
+          },
+          {
+            "title": "On Vitals",
+            "content": "Vitals:  Ht: 122 , Wt: 34 "
+          },
+          {
+            "title": "On Examination",
+            "content": "O/E:  Nutritional Assessment: Slim"
+          },
+          {
+            "id": null,
+            "title": "History of",
+            "content": "C/O"
+          },
+          {
+            "id": null,
+            "title": "Quick Summary - Hopi",
+            "content": "C/O"
+          }
+        ],
+        "prescription": null
+      },
+      {
+        "date": "25 Aug 2022",
+        "doctor": "Dr. Gokul",
+        "appointment_id": 395938,
+        "summary": [
+          {
+            "id": null,
+            "title": "Quick Summary - Medical History",
+            "content": "Known: Hypothyroid Not a known: DM, PTB, SHT, XPTB. [Updated at: 25-Aug-2022]"
+          },
+          {
+            "id": null,
+            "title": "Quick Summary - Hopi",
+            "content": "C/O: Cough, Sputum."
+          },
+          {
+            "id": null,
+            "title": "Dental Treatment",
+            "content": "(54) - Diagnosis: Dental caries\n(52, 61, 62) - Diagnosis: Dental caries\n(82, 74) - Diagnosis: Fractured\n(84) - Diagnosis: Periodontitis"
+          },
+          {
+            "id": null,
+            "title": "Notes",
+            "content": "Visit Notes: Notes: "
+          },
+          {
+            "title": "Visit Details",
+            "content": "VisitID: 395938 - Time: 03:50PM"
+          },
+          {
+            "title": "Prescribed Glasses",
+            "content": "Prescribed Glasses:  D.V - R.E - SPH: 39.00 , D.V - R.E - CYL: 53.00 , D.V - R.E - AXIS: 90° , D.V - L.E - SPH: 63.00 , D.V - L.E - CYL: 45.00 , D.V - L.E - AXIS: 65° , N.V - L.E - SPH: 6.00 "
+          },
+          {
+            "title": "On Examination",
+            "content": "O/E: P⁰ I⁰ C⁺ C⁺ L⁰ E⁰ ●  Nutritional Assessment: Morbid Obese ●  CNS:  NAD"
+          },
+          {
+            "title": "History of",
+            "content": "H/O: Patient presented with cardinal symptom(s) of Cough, Sputum\nCough: Cough is Productive,  Has specific character :Brassy metallic cough.\nSputum: Watery."
+          },
+          {
+            "title": "Eye Examination",
+            "content": "Eye Examination: Pinhole: Right Eye: 20/30,  Left Eye: Count Fingers at 1 ft."
+          }
+        ],
+        "prescription": "https://slashdr.s3-ap-south-1.amazonaws.com/pdf/file/244531/395938-2.pdf?X-Amz-Expires=600&X-Amz-Date=20221223T165708Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIGIMHQ6LC7I4N7WQ/20221223/ap-south-1/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=c5e18c8539d0b820be183a675014a22f40caa774e1067194ee5490c3013a5d3c"
+      },
+      {
+        "date": "20 Aug 2022",
+        "doctor": "Dr. Gokul",
+        "appointment_id": 393255,
+        "summary": [
+          {
+            "title": "Visit Details",
+            "content": "VisitID: 393255 - Time: 08:19AM"
+          },
+          {
+            "title": "On Vitals",
+            "content": "Vitals:  Ht: 163 , Wt: 58 "
+          },
+          {
+            "title": "On Examination",
+            "content": "O/E:  Nutritional Assessment: Slim"
+          }
+        ],
+        "prescription": "https://slashdr.s3-ap-south-1.amazonaws.com/pdf/file/242503/393255-6.pdf?X-Amz-Expires=600&X-Amz-Date=20221223T165708Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIGIMHQ6LC7I4N7WQ/20221223/ap-south-1/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=eeaffe9714398ec367e42c6a776d0c0c54eb6a85aa2afd607e067ffc88fee894"
+      },
+      {
+        "date": "10 Aug 2022",
+        "doctor": "Dr. Gokul",
+        "appointment_id": 388485,
+        "summary": [
+          {
+            "id": null,
+            "title": "Notes",
+            "content": "Visit Notes: Notes: "
+          },
+          {
+            "title": "Visit Details",
+            "content": "VisitID: 388485 - Time: 11:18AM"
+          },
+          {
+            "title": "On Vitals",
+            "content": "Vitals:  Ht: 164 , LMP: 02 Aug 2022 , Wt: 55 , Temp: 80 , HR: 86 , BP: 60-120 , PEFR: 600-500-600 , SPO2: 72 , FEV1: 5.52 "
+          },
+          {
+            "title": "On Examination",
+            "content": "O/E:  Nutritional Assessment: Slim"
+          },
+          {
+            "id": null,
+            "title": "History of",
+            "content": ""
+          },
+          {
+            "id": null,
+            "title": "Quick Summary - Medical History",
+            "content": " [Updated at: 10-Aug-2022]"
+          }
+        ],
+        "prescription": null
+      },
+      {
+        "date": "02 Aug 2021",
+        "doctor": "Dr. Gokul",
+        "appointment_id": 236291,
+        "summary": [
+          {
+            "title": "Visit Details",
+            "content": "VisitID: 236291 - Time: 02:40PM"
+          },
+          {
+            "title": "Diagnosis",
+            "content": "Diagnosis: ?Seborrheic blepharitis - (H01.009), ?Simple Myopia - (H52.10), ?Compound myopic astigmatism - (H52.10), ?Left"
+          }
+        ],
+        "prescription": null
+      },
+      {
+        "date": "02 Jul 2020",
+        "doctor": "Dr. Gokul",
+        "appointment_id": 121768,
+        "summary": [
+          {
+            "title": "Visit Details",
+            "content": "VisitID: 121768 - Time: 03:06PM"
+          }
+        ],
+        "prescription": null
+      },
+      {
+        "date": "14 Apr 2020",
+        "doctor": "Dr. Gokul",
+        "appointment_id": 113905,
+        "summary": [
+          {
+            "title": "Visit Details",
+            "content": "VisitID: 113905 - Time: 06:21PM"
+          }
+        ],
+        "prescription": null
+      },
+      {
+        "date": "23 Feb 2020",
+        "doctor": "Dr. Gokul",
+        "appointment_id": 105556,
+        "summary": [
+          {
+            "title": "Visit Details",
+            "content": "VisitID: 105556 - Time: 04:05PM"
+          }
+        ],
+        "prescription": null
+      },
+      {
+        "date": "08 Feb 2020",
+        "doctor": "Dr. Gokul",
+        "appointment_id": 101166,
+        "summary": [
+          {
+            "title": "Visit Details",
+            "content": "VisitID: 101166 - Time: 05:20PM"
+          }
+        ],
+        "prescription": "https://slashdr.s3-ap-south-1.amazonaws.com/pdf/file/59173/101166-1.pdf?X-Amz-Expires=600&X-Amz-Date=20221223T165708Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIGIMHQ6LC7I4N7WQ/20221223/ap-south-1/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=0c1682f3f1100e56c16bdf7a81bb577e8306efd2bede778ad2cfaab84525df64"
+      },
+      {
+        "date": "06 Dec 2019",
+        "doctor": "Dr. Gokul",
+        "appointment_id": 84960,
+        "summary": [
+          {
+            "title": "Visit Details",
+            "content": "VisitID: 84960 - Time: 11:40AM"
+          }
+        ],
+        "prescription": null
+      },
+      {
+        "date": "26 Nov 2019",
+        "doctor": "Dr. Gokul",
+        "appointment_id": 82198,
+        "summary": [
+          {
+            "title": "Visit Details",
+            "content": "VisitID: 82198 - Time: 11:20AM"
+          },
+          {
+            "title": "Diagnosis",
+            "content": "Diagnosis: Seborrheic blepharitis - (H01.009), Simple Myopia - (H52.10), Right, Compound myopic astigmatism - (H52.10), Left"
+          }
+        ],
+        "prescription": null
+      },
+      {
+        "date": "12 Nov 2019",
+        "doctor": "Dr. Gokul",
+        "appointment_id": 77688,
+        "summary": [
+          {
+            "title": "Visit Details",
+            "content": "VisitID: 77688"
+          }
+        ],
+        "prescription": null
+      },
+      {
+        "date": "07 Nov 2019",
+        "doctor": "Dr. Gokul",
+        "appointment_id": 76062,
+        "summary": [
+          {
+            "title": "Visit Details",
+            "content": "VisitID: 76062"
+          }
+        ],
+        "prescription": null
+      }
+    ],
+    "patient_detail": [
+      {
+        "id": null,
+        "title": "Patient Details",
+        "content": "PatientID:4320, Allergy: "
+      },
+      {
+        "title": "Known Diagnosis",
+        "content": "Known Diagnosis:  DM, Hypothyroid"
+      },
+      {
+        "id": null,
+        "title": "Medical History",
+        "content": "Past Medical History: No history of DM,  No history of PTB,  No history of SHT,  No history of XPTB,  Hypothyroid:. [Updated at: 25-Aug-2022]"
+      }
+    ]
+  }
