@@ -34,7 +34,7 @@ function Displayyear() {
 function App(){
   return (
     <div className="App">
-      <div class="topborder"><img src={require('./slashdr-icon.jpg')}height={60}width={110}></img></div>
+      <div class="topborder"><img src={require('./slashdr-icon.jpg')}height={61}width={110}></img></div>
       <div class="header"><h2>Mr.AABITHA D ,  29/M</h2></div>
       <h4 class="up">Profile</h4>
       <u><h4 class="current">Patient Summary</h4></u>
